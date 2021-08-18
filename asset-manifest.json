@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Infoware/static/css/main.eacc49b0.chunk.css",
+    "main.js": "/Infoware/static/js/main.c170420a.chunk.js",
+    "main.js.map": "/Infoware/static/js/main.c170420a.chunk.js.map",
+    "runtime-main.js": "/Infoware/static/js/runtime-main.55329e37.js",
+    "runtime-main.js.map": "/Infoware/static/js/runtime-main.55329e37.js.map",
+    "static/css/2.765aae55.chunk.css": "/Infoware/static/css/2.765aae55.chunk.css",
+    "static/js/2.2b4e8d3a.chunk.js": "/Infoware/static/js/2.2b4e8d3a.chunk.js",
+    "static/js/2.2b4e8d3a.chunk.js.map": "/Infoware/static/js/2.2b4e8d3a.chunk.js.map",
+    "index.html": "/Infoware/index.html",
+    "static/css/2.765aae55.chunk.css.map": "/Infoware/static/css/2.765aae55.chunk.css.map",
+    "static/css/main.eacc49b0.chunk.css.map": "/Infoware/static/css/main.eacc49b0.chunk.css.map",
+    "static/js/2.2b4e8d3a.chunk.js.LICENSE.txt": "/Infoware/static/js/2.2b4e8d3a.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Infoware/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55329e37.js",
+    "static/css/2.765aae55.chunk.css",
+    "static/js/2.2b4e8d3a.chunk.js",
+    "static/css/main.eacc49b0.chunk.css",
+    "static/js/main.c170420a.chunk.js"
+  ]
+}
